@@ -1,5 +1,7 @@
 {
   "name": "repo-issue-20523",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
