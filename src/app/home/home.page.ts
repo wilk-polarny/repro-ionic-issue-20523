@@ -12,6 +12,8 @@ export class HomePage {
 
   onSubmit(){
     console.log("HomePage::onSubmit - navigating to page2...");
+    // I would check here whether form validation marked the form as valid
+    
     this.router.navigateByUrl("/page2");
   }
 
